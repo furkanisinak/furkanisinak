@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buğra Furkan Işınak</h1>
 <h3 align="center">A passionate Fullstack Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **nodejs**
 
 - 📫 How to reach me **sfurkan72@gmail.com**
 
